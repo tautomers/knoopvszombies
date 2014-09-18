@@ -269,7 +269,6 @@ splint
 split
 spot
 spun
-spunk
 stab
 stack
 stamp
