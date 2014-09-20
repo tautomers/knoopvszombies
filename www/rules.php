@@ -52,26 +52,13 @@
           <div class="odd">
             <div class="rules_header">Game <span class="accent_color">Rules</span></div>
             <div>(last update: April 6, 2013)</div>
-            <div><color=FF0000><b>NOTE:</b> The rules are currently being edited modified. While 95% will remain intact, some details may no longer be accurat. Please check back in mid October for the up to date rules for the Fall 2014 game.</color></div>
             <div>Humans vs. Zombies (HvZ) is a game of tag of epic proportions. There are two teams, the Human Resistance, and the Zombie Horde. All players begin as Humans, except one who is randomly chosen to be the Original Zombie (Players can opt out of being chosen as the Original Zombie). The Original Zombie tags Human players, turning them into Zombies. The Zombies must "feed" on a Human every 60 hours, by tagging them, or they starve to death and are out of the game. The Humans can defend themselves from the Zombies with various game approved equipment stated below.</div>
           </div>
 
           <div class="even">
 
-            <div><span class="rules_heading">New Rules and Rule Changes for this semester</span></div>
-             <div><OL class="rules">
-                <LI>Starve timers are now set to 60 hrs, each "kill" counts for 60 hrs
-                <LI>Remote controlled nerf blasters or equipment are not allowed to be used during the game
-                <LI>Kill sharing has new parameters
-                <LI>Doorways:
-                <OL class="rules">
-                <LI>A human is safe if they have at least one foot within the doorway
-                <LI>A human is safe if, as they are entering the building, they have one hand on the door handle
-                <LI>If the door is locked, then you are only safe if you are able to open the door
-                <LI>Zombies are never safe in doorways
-                </OL>
-
-             </OL></div>
+            <div><span class="rules_heading">New Rules and Rule Changes for this semester:</span></div>
+             <div>The rules are currently being edited. While 95% will remain intact, some details may no longer be accurate. Please check back in mid October for the up to date rules for the Fall 2014 game.</div>
   
               
           </div>
