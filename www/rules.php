@@ -57,7 +57,7 @@
 
           <div class="even">
 
-            <div><span class="rules_heading">New Rules and Rule Changes for this semester:</span></div>
+            <div><span class="rules_heading">New Rules and Rule Changes for this semester</span></div>
              <div>The rules are currently being edited. While 95% will remain intact, some details may no longer be accurate. Please check back in mid October for the up to date rules for the Fall 2014 game.</div>
   
               
