@@ -52,6 +52,7 @@
           <div class="odd">
             <div class="rules_header">Game <span class="accent_color">Rules</span></div>
             <div>(last update: April 6, 2013)</div>
+            <div><color=FF0000><b>NOTE:</b> The rules are currently being edited modified. While 95% will remain intact, some details may no longer be accurat. Please check back in mid October for the up to date rules for the Fall 2014 game.</color></div>
             <div>Humans vs. Zombies (HvZ) is a game of tag of epic proportions. There are two teams, the Human Resistance, and the Zombie Horde. All players begin as Humans, except one who is randomly chosen to be the Original Zombie (Players can opt out of being chosen as the Original Zombie). The Original Zombie tags Human players, turning them into Zombies. The Zombies must "feed" on a Human every 60 hours, by tagging them, or they starve to death and are out of the game. The Humans can defend themselves from the Zombies with various game approved equipment stated below.</div>
           </div>
 
