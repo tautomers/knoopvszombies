@@ -49,7 +49,7 @@
   <?php endif ?>
   
   <div class="email_block">
-    <p>Use the form below to send an email out to players.</p>
+    <p>Use the form below to send an HTML email out to players. Make sure to enter a plaintext version as well. If you don't want to write the HTML, use the other email form.</p>
   </div>
   
   <script type="text/javascript">
