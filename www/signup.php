@@ -478,7 +478,7 @@
             $safe_filename = preg_replace(array("/\s+/", "/[^-\.\w]+/"), array("_", ""), trim($_FILES['photo']['name']));
             if (!preg_match($acceptable_filetypes, strrchr($safe_filename, '.')))
             {
-              header('Location: //'.DOMAIN.'/signup/5/invalidphoto');
+              header('Location: //'.DOMAIN.'signup/5/invalidphoto');
               exit;
             }
             
