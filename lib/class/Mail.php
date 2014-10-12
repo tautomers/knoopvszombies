@@ -186,7 +186,7 @@ class Mail {
         break;
         
       case "allusers":
-        $sql = "SELECT u.email FROM user u WHERE 1";
+        $sql = "SELECT u.email FROM user u WHERE email_confirmed = 1";
         break;
     }
     
