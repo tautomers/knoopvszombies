@@ -4,7 +4,7 @@
   <meta name="description" content="OSU Humans vs. Zombies" />
   <meta name="robots" content="all" />
 
-  <title><?php echo UNIVERSITY; ?> Humans vs. Zombies</title>
+  <title>Humans vs. Zombies at <?php echo UNIVERSITY; ?></title>
 
   <link rel="icon" href="http://<?php echo DOMAIN; ?>/favicon.ico"/>
   <link href="http://<?php echo DOMAIN; ?>/css/reset.css" rel="stylesheet" type="text/css"/>
